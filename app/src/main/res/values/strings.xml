@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NewsAppClone</string>
+    <string name="hello_blank_fragment">Splash Screen</string>
+    <string name="hello_home_fragment">Home Screen</string>
+    <string name="hello_feed_fragment">Feed Screen</string>
+    <string name="hello_feature_fragment">Feature Screen</string>
+    <string name="hello_splash_fragment">Splash Screen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>
